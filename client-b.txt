@@ -2,3 +2,14 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+North_x=0
+North_y=5
+East_x=5
+East_y=0
+South_x=0
+South_y=-5
+West_x=-5
+West_y=0
+End_Location= 2,-3
+Customer moves 2 y coordinates North
+Customer moves -3 x coordinates West
