@@ -2,3 +2,10 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+system_select a # between 1-10
+Accept(if system_select = user_input1)
+Retry(if system_select != user_input1)
+	Accept(if system_select = user_input2)
+	Retry(if system_select != user_input2)
+		Accept(if system_select = user_input3)
+		Decline(if system_select != user_input3)
